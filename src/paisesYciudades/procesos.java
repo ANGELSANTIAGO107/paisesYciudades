@@ -7,7 +7,7 @@ import java.util.Map;
  
 
 public class procesos {
-	String nombre = "";
+
 	public void Iniciar() {
 
 		String menu="GESTION PAISES\n";
