@@ -4,9 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import javax.swing.JOptionPane;
 import java.util.Map;
-
+ 
 
 public class procesos {
+	String nombre = "";
 	public void Iniciar() {
 
 		String menu="GESTION PAISES\n";
